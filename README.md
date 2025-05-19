@@ -1,9 +1,34 @@
-<h1 align="center">Olá 👋, sou Yasmin</h1>
-<h3 align="center">Estudante de Desenvolvimento de Sistemas.</h3>
+# 👋 Oi, eu sou a Yasmin!
 
+🎓 Estudante de **Desenvolvimento de Sistemas** no **SENAI - CTTI**  
+💻 Apaixonada por tecnologia, criação e resolução de problemas.
 
+## 🚀 Tecnologias que estou estudando e utilizando:
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+- 🧠 **Back-end**: Java, Spring Boot, MySQL  
+- 🎨 **Front-end**: SceneBuilder (JavaFX), Figma  
+- 🤖 Interessada em **Inteligência Artificial**
 
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=yasminmartimiano&show_icons=true&locale=en" alt="yasminmartimiano" /></p>
+## 🎯 Áreas de interesse
+
+- Desenvolvimento **Front-end** e **Back-end**
+- **UI/UX Design**
+- Experiência do usuário e acessibilidade
+- Aprendizado contínuo em **IA**
+
+## 🌱 Atualmente estou:
+
+- Criando projetos com Java e JavaFX  
+- Aprimorando meus conhecimentos em Spring Boot  
+- Explorando ferramentas de design para interfaces mais bonitas e funcionais
+
+## 📊 GitHub Stats
+
+![Yasmin GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasminmartimiano&show_icons=true&theme=radical&hide_title=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminmartimiano&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=yasminmartimiano&theme=radical)
+
+## 📫 Contato
+
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/](https://www.linkedin.com/in/yasmin-martimiano-a82b6324b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+📧 yasminliver52@email.com

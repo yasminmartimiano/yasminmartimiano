@@ -17,8 +17,7 @@
 - Aprendizado em **IA**
 
 ## 📊 GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=yasminmartimiano&show_icons=true&theme=radical&hide_title=true)  
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminmartimiano&layout=compact&theme=radical)  
 ![Streak](https://streak-stats.demolab.com/?user=yasminmartimiano&theme=radical)
 

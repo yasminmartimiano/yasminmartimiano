@@ -30,13 +30,10 @@
 ### 📊 <span style="color:#00FF00">GitHub</span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasminmartimiano&show_icons=true&theme=tokyonight&hide=prs&icon_color=00FF00&title_color=00FF00&text_color=00FF00" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminmartimiano&layout=compact&theme=tokyonight&title_color=00FF00&text_color=00FF00" width="48%" />
   <br><br>
   <img src="https://streak-stats.demolab.com?user=yasminmartimiano&theme=tokyonight&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" width="100%" />
 </p>
-
----
 
 ### 🛰️ <span style="color:#00FF00">Contato</span>
 
@@ -47,8 +44,6 @@
   <br><br>
   📧 <strong style="color:#00FF00">yasminliver52@email.com</strong>
 </p>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer" />
 

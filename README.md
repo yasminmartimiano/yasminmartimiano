@@ -6,7 +6,7 @@ Estudante de **Desenvolvimento de Sistemas** no **SENAI - CTTI**
 
 ## Stack Tech
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,figma,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,tailwindcss,&theme=dark" />
 
 ## GitHub
 
